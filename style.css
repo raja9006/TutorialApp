@@ -1,0 +1,165 @@
+/*/*/*ul li:hover
+{
+  background-color: yellow;
+  font-size: 200%;
+  /*display: block;*/
+}
+ul li a{text-decoration: none;}
+
+
+
+
+ul{
+	background-color: green;
+	/*margin: 10px;*/
+	text-align: center;
+}
+ul li{
+	display: inline-block;
+	font-size: 30px;
+	width: 120px;
+
+    }
+
+img{
+	width: 100%;
+	/*height: 1000px;*/
+   }
+   .Boxes div{
+   	display: inline-block;
+   	width: 30%;
+   	margin: 0px;
+   	margin-left: 2.5%;
+   	
+   	text-align: center;
+   	border: 1px solid black;
+   	min-height: 280px;
+   	background-color: #00bd56;
+
+
+   }
+
+   .Boxes div:nth-child(2){
+   	    position: relative;
+    top: -37px;
+   }
+   .Boxes p{
+
+   		/*text-align: justify;*/
+   		color:white;
+   }
+
+   .Boxes h1{
+   	color: red;
+    
+   }
+   .footer div{
+   	display: inline-grid;
+   	width: 30%;
+   	margin-left: 2.5%;
+   	text-align: center;
+   	
+   }
+   .footer p
+   {
+   		/*text-align: justify;*/
+   		text-align: center;
+   }
+   .flist
+   {
+   	background-color:white; 
+   }
+   .flist li{
+   	font-size: 13px;
+   }
+   .logo 
+   {
+   	background-color:white;
+   }
+   .logo li
+   {
+   	width:8.5%;
+   }
+   .contact
+   {
+   	text-align: left;
+   }
+   .contact a
+   {
+   	margin-left: 7px;
+   }
+   .cntct
+   {
+   		width:7%;
+   }
+   .address
+   {
+   	width:8%;
+   	margin-top: -5px;
+   }
+   .gmail
+   {
+   	width:8%;
+   }
+.footer{
+	background-color: red;
+}
+/*Contact us*/
+* {box-sizing: border-box}
+
+/* Add padding to containers */
+.container {
+  padding: 16px;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Overwrite default styles of hr */
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+/* Set a style for the submit/register button */
+.registerbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.registerbtn:hover {
+  opacity:1;
+}
+
+/* Add a blue text color to links */
+a {
+  color: dodgerblue;
+}
+
+/* Set a grey background color and center the text of the "sign in" section */
+.signin {
+  background-color: #f1f1f1;
+  text-align: center;
+}
+
+
+
+/*for html submenu*/
